@@ -1,4 +1,4 @@
-myfile=open(r'E:\poem.txt',"r")
+myfile=open(r'E:\\poem.txt',"r")
 str=""
 size=0
 tsize=0

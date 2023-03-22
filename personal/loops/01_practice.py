@@ -1,3 +1,3 @@
 import math
 a=int(input("ad:"))
-print (math.cube(a))
+print (a**3)

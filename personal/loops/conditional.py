@@ -12,7 +12,7 @@ a=int(input("enter the number"))
 b=int(input("enter 2nd number"))
 c=(a+b)
 print(c)
-if(c%2):
+if(c%2==0):
     print("the product is an even number")
 elif(c==0):
     print("none")
